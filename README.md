@@ -1,4 +1,8 @@
+<div align="center">
+
 # Mario Jump 🍄
+
+</div>
 
 
 ![Banner](https://cdn.discordapp.com/attachments/884155938985111702/1024111808119840778/BannerMario.png)
