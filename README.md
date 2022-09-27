@@ -9,7 +9,7 @@
 ---
 
 
-### :pencil: Descrição do Projeto:
+### :pencil: Descrição do Projeto
 <p align="justify">Mario Jump criado de forma simples com HTML, CSS e JavaScript.</p>
 
 
@@ -18,6 +18,6 @@
 [Como criar um jogo SIMPLES usando JavaScript e HTML 🖱️](https://www.youtube.com/watch?v=r9buAwVBDhA&t=2s)
 
 
-### 📍 Status:
+### 📍 Status
 
 🚧  Finalizado  🚧
